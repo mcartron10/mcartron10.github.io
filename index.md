@@ -6,7 +6,7 @@ Hi everyone, my name is Matthieu Cartron and in this blog I will be discussing t
 
 I'll include a photo of myself at some point, but for now I'll include this, which may or may not engender distaste (or admiration) if you follow English soccer. 
 
-![The Liverpool crest](Liverpool_FC.svg.png){output.width = 10}
+![The Liverpool crest](Liverpool_FC.svg.png)
 
 Okay, so maybe a little over the top. Let's try with html to reduce the image size. 
 
