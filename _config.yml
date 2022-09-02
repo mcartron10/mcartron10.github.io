@@ -18,7 +18,7 @@ github_username: "mcartron10"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "chirpy"
+theme: "Chirpy"
 
 rss: rss
 
