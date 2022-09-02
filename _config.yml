@@ -1,12 +1,12 @@
 title: "Matthieu's Blog"
 author: "Matthieu Cartron"
-# description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+A Statistics Blog for Learning!
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 # email: "example@mail.com"
 # twitter_username: "twitteruser"
-# github_username: "githubuser"
+github_username: "mcartron10"
 # linkedin_username: "linkedinuser"
 # facebook_username: username
 # flickr_username: username
@@ -18,7 +18,7 @@ author: "Matthieu Cartron"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+theme: "chirpy"
 
 rss: rss
 
