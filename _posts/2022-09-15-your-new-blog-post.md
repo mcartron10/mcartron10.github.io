@@ -12,4 +12,4 @@ Much of what we practiced was new for me. I do not have a computer science backg
 
 Reflecting on the project, there is certainly one thing I would like to improve upon to bolster my function writing skills: improving my understanding of the interactions between various environments (global, function, etc.). I found myself often making the extra effort to give object names within functions completely unique names (that I had not used in the global environment or in a previous function) so that there could never be any confusion within the program as to which object I was specifying. With more practice and knowledge on this front I think I could get more comfortable, and the result would be code that is a little easier to read!
 
-[Link to project:](Stat558_Project1_CartronMatthieu.html) 
+[Link to project:](https://mcartron10.github.io/Stat558_Project1_CartronMatthieu.html) 
