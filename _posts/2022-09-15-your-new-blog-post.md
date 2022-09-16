@@ -1,6 +1,6 @@
 ## Project 1 Reflection
 
-Link to project [here](mcartron10.github.io/Stat558_Project1_CartronMatthieu.html)
+Link to project [here](https://mcartron10.github.io/Stat558_Project1_CartronMatthieu.html)
 
 Project one--the first project of Stat 558--concerned data processing, or getting data into a form such that it can be analyzed. From what I have heard and experienced professionally, this is often the most strenuous part of the modeling process. Data rarely appears in the structured, readable form that we have come to associate with various library data sets. This is why the processing stage is so vital, even if it is at times tedious and onerous. 
 
