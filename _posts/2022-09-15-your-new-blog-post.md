@@ -1,6 +1,7 @@
 # Reflecting on Project 1
 
 [Link to completed project](file:///C:/Users/Matthieu/Documents/Matthieu/Stat%20558/Stat558_Project1_CartronMatthieu.html)
+
 Project one--the first project of Stat 558--concerned data processing, or getting data into a form such that it can be analyzed. From what I have heard and experienced professionally, this is often the most strenuous part of the modeling process. Data rarely appears in the structured, readable form that we have come to associate with various library data sets. This is why the processing stage is so vital, even if it is at times tedious and onerous. 
 
 But there is also great satisfaction in creating solutions that work. For project one, we initially processed the given raw data function by function (base R and tidyverse) which worked fine, but remains rather inflexible and inconvenient, especially if that process must be repeated. 
