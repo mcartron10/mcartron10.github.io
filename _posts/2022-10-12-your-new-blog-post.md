@@ -10,4 +10,4 @@ In the future, I would probably create a sort of testing document for code that 
 
 This project was an excellent introduction to APIs and I felt I gained plenty of new knowledge and skills. 
 
-You can find the link to our vignette [here](https://mcartron10.github.io/Stat558_Project2_CartronRao/).
+You can find the link to our vignette [here](https://mcartron10.github.io/Stat558_Project2_CartronRao/) and the vignette repository [here](https://github.com/mcartron10/Stat558_Project2_CartronRao).
