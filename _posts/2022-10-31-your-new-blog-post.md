@@ -1,0 +1,10 @@
+# Selection Methods
+
+What I have gathered through the readings, as well as through working with regression models, is that variable selection is more of an ad hoc process; the ideal method of selection will not always be the same for every model, and that personal judgement is an important part of the process. In the summary section of the biostatistics chapter (10), the second of the three readings, the author says that we should use the methods of variable selection “as a guide only,” which seems to broadly summarize the overall feeling of statisticians toward the subject.
+
+This being said, the philosophical end of the models themselves necessitate a set of goals for objective comparisons between models (if we choose one for a particular purpose, we must be able to justify it unarbitrarily). We know that domain-specific knowledge is often important. An ecologist in an ecological study will likely have an idea as to what variables will be important vs those that are less relevant. Models that feature less complexity tend to be more interpretable and useful. Measures of significance do tell us something objective about our variables. Model assumptions are important and will determine if a model represents the featured data. The list goes on. The question becomes the following: which of the above goals (or others—it will also depend on the objective of the study/task, which could range from inference to prediction) should we be pursuing given the data we have?
+
+Personally, I find the information criteria useful in that they allow for models to be compared directly over a measure that matters (model complexity). This is obviously one of the problems with stepwise methods, which do not allow for apples-to-apples comparisons (p-values across different models with different combinations of variables exist relative to their own respective models, and thus are not exactly comparable across models). 
+
+Through my continued statistical education, I look forward to trying out other selection methods with which I am less familiar and getting the opportunity to learn about their strengths and weaknesses. 
+
