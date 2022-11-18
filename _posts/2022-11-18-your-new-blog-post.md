@@ -12,6 +12,7 @@ The biggest takeaway from this project was yet another glimpse into the sheer ex
 
 Below you can find useful links relating to the project: 
 
-Link to the project repository [here](https://github.com/mcartron10/Stat558_Project3_CartronKaranjai)
 
-Link to the project site [here](https://mcartron10.github.io/Stat558_Project3_CartronKaranjai/)
+- Link to the project repository [here](https://github.com/mcartron10/Stat558_Project3_CartronKaranjai)
+
+- Link to the project site [here](https://mcartron10.github.io/Stat558_Project3_CartronKaranjai/)
